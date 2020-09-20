@@ -1,7 +1,7 @@
 # Oi, sou Lucas Queiroz!👋
 
 ### Sobre mim
-Sou desenvolvedor Java backend e atualmente faço o curso de Sistemas de Informação na [UFERSA](https://ufersa.edu.br/). Sou Técnico em Informática pelo [IFRN](https://portal.ifrn.edu.br/) e Técnico em Informática para Internet pelo [IMD](https://www.imd.ufrn.br/portal/). Para saber mais sobre minha pessoa, clica no link abaixo ai ou me adiciona nas redes socais.
+Sou desenvolvedor Java backend e atualmente faço o curso de Sistemas de Informação na [UFERSA](https://ufersa.edu.br/). Sou Técnico em Informática pelo [IFRN](https://portal.ifrn.edu.br/) e Técnico em Informática para Internet pelo [IMD](https://www.imd.ufrn.br/portal/). Para saber mais sobre minha pessoa, clica no link abaixo ou me adiciona nas redes socais.
 
 - [Website](https://mulucas.github.io/) 💻 
 
@@ -10,6 +10,8 @@ Sou desenvolvedor Java backend e atualmente faço o curso de Sistemas de Informa
 [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/lukas.keiroz.1)
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=mulucas)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mulucas&layout=compact)](https://github.com/mulucas/github-readme-stats)
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
